@@ -93,7 +93,7 @@ go to airflow ui > admin > connection and set these 2 connections
 
 #### NASA API Connection
 
-```json
+```bash
 
 Connection ID: nasa_api
 
@@ -107,7 +107,7 @@ Extra: { "api_key": "TLnQfhbikfGL2U1eL6NM6EiAHm1TUT2DfJF2MU1u" }
 
 #### PostgreSQL Connection
 
-```json
+```bash
 
 Connection ID: postgres_id
 
